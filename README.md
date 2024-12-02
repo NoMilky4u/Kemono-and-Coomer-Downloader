@@ -19,11 +19,18 @@ You can install the required library using pip:
 
 
 pip install requests
+
 ```
 
 ## Usage
 
 1. Clone the repository or download the script.
+
+   ```bash
+   git clone https://github.com/NoMilky4u/Kemono-and-Coomer-Downloader.git
+   cd Kemono-and-Coomer-Downloader
+      ```
+
 2. Run the script using Python:
 
    ```bash
