@@ -27,7 +27,7 @@ pip install requests
 2. Run the script using Python:
 
    ```bash
-   python attachment_downloader.py
+   python downloader.py
    ```
 
 3. When prompted, enter the URL of the user profile or post you want to download attachments from. The script supports the following formats:
